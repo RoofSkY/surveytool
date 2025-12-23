@@ -19,8 +19,8 @@ pip install pandas xlsxwriter
 저장소를 클론하거나 파이썬 파일(`surveytool_horizontal.py`, `surveytool_vertical.py`)을 다운로드합니다.
 
 ```bash
-git clone https://github.com/사용자이름/설문저장소이름.git
-cd 설문저장소이름
+git clone https://github.com/RoofSkY/surveytool.git
+cd ${폴더이름}
 ```
 
 ## 실행 파일(.exe) 빌드 방법
